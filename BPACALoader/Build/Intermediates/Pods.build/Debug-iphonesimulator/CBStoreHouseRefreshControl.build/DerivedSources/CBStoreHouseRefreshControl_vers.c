@@ -1,0 +1,1 @@
+ const unsigned char CBStoreHouseRefreshControlVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:CBStoreHouseRefreshControl  PROJECT:Pods-1" "\n"; const double CBStoreHouseRefreshControlVersionNumber __attribute__ ((used)) = (double)1.;

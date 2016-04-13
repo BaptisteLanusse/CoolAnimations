@@ -1,0 +1,70 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/lanussebaptiste/Desktop/BPACALoader/Build/Products/Debug-iphonesimulator/CBStoreHouseRefreshControl.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "BarItem.h",
+          'external-contents': "/Users/lanussebaptiste/Desktop/BPACALoader/Pods/CBStoreHouseRefreshControl/Class/BarItem.h"
+        },
+        {
+          'type': 'file',
+          'name': "CBStoreHouseRefreshControl-Swift.h",
+          'external-contents': "/Users/lanussebaptiste/Desktop/BPACALoader/Build/Products/Debug-iphonesimulator/CBStoreHouseRefreshControl.framework/Headers/CBStoreHouseRefreshControl-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "CBStoreHouseRefreshControl-umbrella.h",
+          'external-contents': "/Users/lanussebaptiste/Desktop/BPACALoader/Pods/Target Support Files/CBStoreHouseRefreshControl/CBStoreHouseRefreshControl-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "CBStoreHouseRefreshControl.h",
+          'external-contents': "/Users/lanussebaptiste/Desktop/BPACALoader/Pods/CBStoreHouseRefreshControl/Class/CBStoreHouseRefreshControl.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/lanussebaptiste/Desktop/BPACALoader/Build/Products/Debug-iphonesimulator/CBStoreHouseRefreshControl.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/lanussebaptiste/Desktop/BPACALoader/Build/Intermediates/Pods.build/Debug-iphonesimulator/CBStoreHouseRefreshControl.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/lanussebaptiste/Desktop/BPACALoader/Build/Products/Debug-iphonesimulator/Pods_trying.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-trying-umbrella.h",
+          'external-contents': "/Users/lanussebaptiste/Desktop/BPACALoader/Pods/Target Support Files/Pods-trying/Pods-trying-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_trying-Swift.h",
+          'external-contents': "/Users/lanussebaptiste/Desktop/BPACALoader/Build/Products/Debug-iphonesimulator/Pods_trying.framework/Headers/Pods_trying-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/lanussebaptiste/Desktop/BPACALoader/Build/Products/Debug-iphonesimulator/Pods_trying.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/lanussebaptiste/Desktop/BPACALoader/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-trying.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

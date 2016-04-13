@@ -1,0 +1,12 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "71b8d3beaa2f0586e93cb58142c70d84"
+build_time: [513874289, 923556000]
+inputs:
+  "/Users/lanussebaptiste/Desktop/AnimatedTabBar/Pods/RAMAnimatedTabBarController/RAMAnimatedTabBarController/RAMAnimatedTabBarController.swift": [513874273, 0]
+  "/Users/lanussebaptiste/Desktop/AnimatedTabBar/Pods/RAMAnimatedTabBarController/RAMAnimatedTabBarController/RAMBadge/RAMBadge.swift": [513874273, 0]
+  "/Users/lanussebaptiste/Desktop/AnimatedTabBar/Pods/RAMAnimatedTabBarController/RAMAnimatedTabBarController/Animations/BounceAnimation/RAMBounceAnimation.swift": [513874273, 0]
+  "/Users/lanussebaptiste/Desktop/AnimatedTabBar/Pods/RAMAnimatedTabBarController/RAMAnimatedTabBarController/Animations/FrameAnimation/RAMFrameItemAnimation.swift": [513874273, 0]
+  "/Users/lanussebaptiste/Desktop/AnimatedTabBar/Pods/RAMAnimatedTabBarController/RAMAnimatedTabBarController/Animations/FumeAnimation/RAMFumeAnimation.swift": [513874273, 0]
+  "/Users/lanussebaptiste/Desktop/AnimatedTabBar/Pods/RAMAnimatedTabBarController/RAMAnimatedTabBarController/RAMItemAnimationProtocol.swift": [513874273, 0]
+  "/Users/lanussebaptiste/Desktop/AnimatedTabBar/Pods/RAMAnimatedTabBarController/RAMAnimatedTabBarController/Animations/RotationAnimation/RAMRotationAnimation.swift": [513874273, 0]
+  "/Users/lanussebaptiste/Desktop/AnimatedTabBar/Pods/RAMAnimatedTabBarController/RAMAnimatedTabBarController/Animations/TransitionAniamtions/RAMTransitionItemAnimations.swift": [513874273, 0]

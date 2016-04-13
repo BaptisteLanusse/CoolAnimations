@@ -1,0 +1,60 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/lanussebaptiste/Desktop/AnimatedTabBar/Build/Products/Debug-iphonesimulator/Pods_AnimatedTabBar.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-AnimatedTabBar-umbrella.h",
+          'external-contents': "/Users/lanussebaptiste/Desktop/AnimatedTabBar/Pods/Target Support Files/Pods-AnimatedTabBar/Pods-AnimatedTabBar-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_AnimatedTabBar-Swift.h",
+          'external-contents': "/Users/lanussebaptiste/Desktop/AnimatedTabBar/Build/Products/Debug-iphonesimulator/Pods_AnimatedTabBar.framework/Headers/Pods_AnimatedTabBar-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/lanussebaptiste/Desktop/AnimatedTabBar/Build/Products/Debug-iphonesimulator/Pods_AnimatedTabBar.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/lanussebaptiste/Desktop/AnimatedTabBar/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-AnimatedTabBar.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/lanussebaptiste/Desktop/AnimatedTabBar/Build/Products/Debug-iphonesimulator/RAMAnimatedTabBarController.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "RAMAnimatedTabBarController-Swift.h",
+          'external-contents': "/Users/lanussebaptiste/Desktop/AnimatedTabBar/Build/Products/Debug-iphonesimulator/RAMAnimatedTabBarController.framework/Headers/RAMAnimatedTabBarController-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "RAMAnimatedTabBarController-umbrella.h",
+          'external-contents': "/Users/lanussebaptiste/Desktop/AnimatedTabBar/Pods/Target Support Files/RAMAnimatedTabBarController/RAMAnimatedTabBarController-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/lanussebaptiste/Desktop/AnimatedTabBar/Build/Products/Debug-iphonesimulator/RAMAnimatedTabBarController.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/lanussebaptiste/Desktop/AnimatedTabBar/Build/Intermediates/Pods.build/Debug-iphonesimulator/RAMAnimatedTabBarController.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

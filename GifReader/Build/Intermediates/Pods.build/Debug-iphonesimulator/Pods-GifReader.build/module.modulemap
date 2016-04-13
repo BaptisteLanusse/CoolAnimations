@@ -1,0 +1,6 @@
+framework module Pods_GifReader {
+  umbrella header "Pods-GifReader-umbrella.h"
+
+  export *
+  module * { export * }
+}

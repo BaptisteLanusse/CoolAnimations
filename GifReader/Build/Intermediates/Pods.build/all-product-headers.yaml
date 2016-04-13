@@ -1,0 +1,70 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/lanussebaptiste/Desktop/GifReader/Build/Products/Debug-iphonesimulator/Pods_GifReader.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-GifReader-umbrella.h",
+          'external-contents': "/Users/lanussebaptiste/Desktop/GifReader/Pods/Target Support Files/Pods-GifReader/Pods-GifReader-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_GifReader-Swift.h",
+          'external-contents': "/Users/lanussebaptiste/Desktop/GifReader/Build/Products/Debug-iphonesimulator/Pods_GifReader.framework/Headers/Pods_GifReader-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/lanussebaptiste/Desktop/GifReader/Build/Products/Debug-iphonesimulator/Pods_GifReader.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/lanussebaptiste/Desktop/GifReader/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-GifReader.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/lanussebaptiste/Desktop/GifReader/Build/Products/Debug-iphonesimulator/YLGIFImage.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "YLGIFImage-Swift.h",
+          'external-contents': "/Users/lanussebaptiste/Desktop/GifReader/Build/Products/Debug-iphonesimulator/YLGIFImage.framework/Headers/YLGIFImage-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "YLGIFImage-umbrella.h",
+          'external-contents': "/Users/lanussebaptiste/Desktop/GifReader/Pods/Target Support Files/YLGIFImage/YLGIFImage-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "YLGIFImage.h",
+          'external-contents': "/Users/lanussebaptiste/Desktop/GifReader/Pods/YLGIFImage/YLGIFImage/YLGIFImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "YLImageView.h",
+          'external-contents': "/Users/lanussebaptiste/Desktop/GifReader/Pods/YLGIFImage/YLGIFImage/YLImageView.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/lanussebaptiste/Desktop/GifReader/Build/Products/Debug-iphonesimulator/YLGIFImage.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/lanussebaptiste/Desktop/GifReader/Build/Intermediates/Pods.build/Debug-iphonesimulator/YLGIFImage.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
